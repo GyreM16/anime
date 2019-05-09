@@ -6,7 +6,7 @@
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/5/17407.jpg"
         },
         {
             "name": "One Piece",
@@ -15,7 +15,7 @@
             "episode": 700,
              "categorie":"Animation | Drama | Adventure",
             "studio":"Toei Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/12/74043.jpg"
         },
         {
             "name": "Attack on Titan",
@@ -24,7 +24,7 @@
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Wit Studio",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/5/44560.jpg"
         },
         {
             "name": "JoJo no Kimyou na Bouken",
@@ -42,7 +42,7 @@
             "episode": 37,
             "categorie":" Mystery | Police | Psychological | Supernatural | Thriller | Shounen",
             "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/9/9453.jpg"
         },
         {
             "name": "Fullmetal Alchemist: Brotherhood",
@@ -51,16 +51,16 @@
             "episode": 64,
             "categorie":"Action | Military | Adventure | Comedy | Drama | Magic | Fantasy | Shounen",
             "studio":"Kyoto Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/5/47421.jpg"
         },
         {
             "name": "Tokyo Ghoul",
-            "description": "",
+            "description": "Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies.",
             "Rating": "8.01",
             "episode": 12,
             "categorie":"Action | Mystery",
             "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/5/64449.jpg"
         },
         {
             "name": "Black Clover",
@@ -69,7 +69,7 @@
             "episode": 51,
             "categorie":"Magic | Shounen | Adventure",
             "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/4/88335.jpg"
         },
         {
             "name": "Sword Art Online",
@@ -78,7 +78,7 @@
             "episode": 25,
             "categorie":"Drama | Adventure",
             "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/8/36343.jpg"
         },
         {
             "name": "Nanatsu no Taizai",
@@ -87,7 +87,7 @@
             "episode": 24,
             "categorie":" Action | Adventure | Ecchi | Fantasy | Magic | Shounen | Supernatural",
             "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/8/65409.jpg"
         },
         {
             "name": "Kiseijuu: Sei no Kakuritsu",
@@ -96,7 +96,7 @@
             "episode": 24,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/5/73085.jpg"
         },
         {
             "name": "Hunter x Hunter (2011)",
@@ -105,7 +105,7 @@
             "episode": 148,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/11/33657.jpg"
         }
 
     ]
