@@ -106,6 +106,15 @@
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
             "img": "https://cdn.myanimelist.net/images/anime/11/33657.jpg"
+        },
+        {
+            "name": "Dragon Ball Z",
+            "description": "Five years after winning the World Martial Arts tournament, Gokuu is now living a peaceful life with his wife and son. This changes, however, with the arrival of a mysterious enemy named Raditz who presents himself as Gokuu's long-lost brother. He reveals that Gokuu is a warrior from the once powerful but now virtually extinct Saiyan race, whose homeworld was completely annihilated. When he was sent to Earth as a baby, Gokuu's sole purpose was to conquer and destroy the planet; but after suffering amnesia from a head injury, his violent and savage nature changed, and instead was raised as a kind and well-mannered boy, now fighting to protect others.",
+            "Rating": "8.29",
+            "episode": 291,
+            "categorie":"Action | Shounen  | Adventure",
+            "studio":"Toei Animation",
+            "img": "https://cdn.myanimelist.net/images/anime/13/18075.jpg"
         }
 
     ]
